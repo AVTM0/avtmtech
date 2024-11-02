@@ -1,7 +1,7 @@
-package com.avtm.AVTMTech.item;
+package com.avtm.avtmtech.item;
 
-import com.avtm.AVTMTech.AVTMTech;
-import com.avtm.AVTMTech.block.ModBlocks;
+import com.avtm.avtmtech.AVTMTech;
+import com.avtm.avtmtech.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;

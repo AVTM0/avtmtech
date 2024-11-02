@@ -1,7 +1,7 @@
-package com.avtm.AVTMTech.block;
+package com.avtm.avtmtech.block;
 
-import com.avtm.AVTMTech.AVTMTech;
-import com.avtm.AVTMTech.item.ModItems;
+import com.avtm.avtmtech.AVTMTech;
+import com.avtm.avtmtech.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.Item;

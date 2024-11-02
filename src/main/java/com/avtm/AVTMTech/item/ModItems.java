@@ -1,6 +1,6 @@
-package com.avtm.AVTMTech.item;
+package com.avtm.avtmtech.item;
 
-import com.avtm.AVTMTech.AVTMTech;
+import com.avtm.avtmtech.AVTMTech;
 import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;

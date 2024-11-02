@@ -1,4 +1,4 @@
-package com.avtm.AVTMTech;
+package com.avtm.avtmtech;
 
 import java.util.List;
 import java.util.Set;
