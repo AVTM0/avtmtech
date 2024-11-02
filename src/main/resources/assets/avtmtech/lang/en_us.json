@@ -1,5 +1,5 @@
 {
-  "itemGroup.avtmtech": "Example Mod Tab",
-  "block.avtmtech.example_block": "Example Block",
-  "item.avtmtech.example_item": "Example Item"
+  "block.avtmtech.cirurgytable": "Cirurgy Table",
+  "item.avtmtech.rubber": "Rubber",
+  "creativetab.avtmtech.avtmtech_items": "AVTMTech Items"
 }
