@@ -22,9 +22,9 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> CIRURGYTABLE = registerBlock("cirurgytable",
             () -> new Block(BlockBehaviour.Properties.of()
-                    .instrument(NoteBlockInstrument.BASEDRUM)
+                    .destroyTime(16)
+                    .explosionResistance(1200)
                     .requiresCorrectToolForDrops()
-                    .strength(6.0F, 6.0F)
             ));
 
 
