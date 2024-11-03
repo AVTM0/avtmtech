@@ -1,6 +1,12 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube",
   "textures": {
-    "all": "avtmtech:block/cirurgytable"
+    "down": "avtmtech:block/cirurgytable_bottom",
+    "east": "avtmtech:block/cirurgytable_keyboard",
+    "north": "avtmtech:block/cirurgytable_side",
+    "particle": "avtmtech:block/cirurgytable_side",
+    "south": "avtmtech:block/cirurgytable_side",
+    "up": "avtmtech:block/cirurgytable",
+    "west": "avtmtech:block/cirurgytable_keyboard"
   }
 }
