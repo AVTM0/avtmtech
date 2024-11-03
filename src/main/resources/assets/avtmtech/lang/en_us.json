@@ -1,5 +1,6 @@
 {
   "block.avtmtech.cirurgytable": "Cirurgy Table",
   "item.avtmtech.rubber": "Rubber",
-  "creativetab.avtmtech.avtmtech_items": "AVTMTech Items"
+  "creativetab.avtmtech.avtmtech_items": "AVTMTech Items",
+  "tooltip.avtmtech.cirurgytable.tooltip": "A forgotten tool, made to modify your body with technology"
 }

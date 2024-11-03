@@ -15,7 +15,7 @@ public class ModCreativeModeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TAB =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, AVTMTech.MOD_ID);
 
-    public static final Supplier<CreativeModeTab> MODTESTE_ITEMS_TAB = CREATIVE_MODE_TAB.register("avtmtech_items_tab",
+    public static final Supplier<CreativeModeTab> AVTMTECH_ITEMS_TAB = CREATIVE_MODE_TAB.register("avtmtech_items_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.RUBBER.get()))
                     .title(Component.translatable("creativetab.avtmtech.avtmtech_items"))
                     .displayItems((itemDisplayParameters, output) -> {
